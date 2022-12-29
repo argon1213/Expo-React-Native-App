@@ -1,0 +1,94 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "EvanBacon",
+      "name": "Evan Bacon",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/9664363?v=4",
+      "profile": "https://twitter.com/baconbrix",
+      "contributions": [
+        "code",
+        "doc",
+        "design",
+        "maintenance",
+        "review"
+      ]
+    },
+    {
+      "login": "brentvatne",
+      "name": "Brent Vatne",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/90494?v=4",
+      "profile": "https://expo.io",
+      "contributions": [
+        "code",
+        "doc",
+        "review"
+      ]
+    },
+    {
+      "login": "hamzahalilovic",
+      "name": "Hamza Halilovic",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/26879042?v=4",
+      "profile": "http://hamzah",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "byCedric",
+      "name": "Cedric van Putten",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/1203991?v=4",
+      "profile": "https://bycedric.com",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "fson",
+      "name": "Ville Immonen",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/497214?v=4",
+      "profile": "https://twitter.com/VilleImmonen",
+      "contributions": [
+        "code",
+        "review"
+      ]
+    },
+    {
+      "login": "friederbluemle",
+      "name": "Frieder Bluemle",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/743291?v=4",
+      "profile": "https://github.com/friederbluemle",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "kbrandwijk",
+      "name": "Kim Brandwijk",
+      "avatar_url": "https://avatars.githubusercontent.com/u/852069?v=4",
+      "profile": "https://github.com/kbrandwijk",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "srkds",
+      "name": "Nirav",
+      "avatar_url": "https://avatars.githubusercontent.com/u/61644078?v=4",
+      "profile": "https://github.com/srkds",
+      "contributions": [
+        "code"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "create-react-native-app",
+  "projectOwner": "expo",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true
+}
